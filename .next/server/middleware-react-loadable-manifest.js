@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={}
+self.__REACT_LOADABLE_MANIFEST={"index.tsx -> react-calendar-timeline":{"id":"index.tsx -> react-calendar-timeline","files":["static/chunks/node_modules_react-calendar-timeline_lib_index_js.js"]}}
