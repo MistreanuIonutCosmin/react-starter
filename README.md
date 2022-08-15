@@ -1,12 +1,12 @@
 # React Started
 
 TODO:
-[] https://github.com/vercel/swr/pull/1263 try to use with Hasura https://cloud.hasura.io/project/d7bd61fd-f658-4ebd-b6d3-175ee9d803f8/console subscriptions /  streaming subscription?
-[] Load more data as you go left and right in the timeline
-[] Updates in the database are automatically available in the frontend
-[] Write tests 
-[] Use typescrips 
-[] Make a CI/CD pipeline
+[] https://github.com/vercel/swr/pull/1263 try to use with Hasura https://cloud.hasura.io/project/d7bd61fd-f658-4ebd-b6d3-175ee9d803f8/console subscriptions /  streaming subscription? 
+[] Load more data as you go left and right in the timeline 
+[] Updates in the database are automatically available in the frontend 
+[] Write tests  
+[] Use typescrips  
+[] Make a CI/CD pipeline 
 
 
 Questions:
