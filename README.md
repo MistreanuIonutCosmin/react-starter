@@ -1,26 +1,10 @@
 # React Started
 
-TODO:
-[] https://github.com/vercel/swr/pull/1263 try to use with Hasura https://cloud.hasura.io/project/d7bd61fd-f658-4ebd-b6d3-175ee9d803f8/console subscriptions /  streaming subscription? 
-
-[] Load more data as you go left and right in the timeline 
-
-[] Updates in the database are automatically available in the frontend 
-
-[] Write tests  
-
-[] Use typescrips  
-
-[] Make a CI/CD pipeline 
-
-
-Questions:
-* Will SWR scale for a big app? What alternatives are there?
-* Should we use Hasura streaming subscription or subscription?
-* How do we manage conflicts between local updates and updates from the sochets?
-* Is the app well memoized?
-
 ## Features
+NextjJS template
+Mantine 
+SWR for data fetching
+Hasura GrapQL
 
 This template comes with several essential features:
 
