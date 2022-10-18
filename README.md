@@ -1,10 +1,10 @@
 # React Started
 
 ## Features
-NextjJS template
-Mantine 
-SWR for data fetching
-Hasura GrapQL
+- NextjJS template
+- Mantine 
+- SWR for data fetching
+- Hasura GrapQL
 
 This template comes with several essential features:
 
